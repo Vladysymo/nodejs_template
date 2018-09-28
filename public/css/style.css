@@ -1,0 +1,29 @@
+body {
+    background-color: #1b551b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #ffffff;
+}
+.btn {
+    height: 50px;
+    width: 200px;
+    background-color: #fff;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    border-radius: 50px;
+}
+
+
+.log .li {
+    color: #ffffff;
+}
